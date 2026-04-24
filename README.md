@@ -26,4 +26,4 @@ Um assistente de estudos que escuta sua voz, transcreve e responde como um profe
 
 Não compartilhe sua API Key. Use sempre os Secrets do Colab.
 
-[![Abrir no Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/danielolivveira/tutor-voz-gemini/blob/main/Tutor_de_estudos_por_voz_com_Whisper_e_Gemini.ipynb)
+[![Abrir no Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/danielolivveira/Tutor-voz-gemini/blob/main/Tutor_de_estudos_por_voz_com_Whisper_e_Gemini.ipynb)
